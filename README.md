@@ -1,11 +1,9 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.apple.com/v/macbook-air/l/images/meta/macbook-air_overview__15sjf4iagj6q_og.png?202111241106" alt="cover" />
+<img width="100%" height = "350px" src="https://www.apple.com/v/macbook-air/l/images/meta/macbook-air_overview__15sjf4iagj6q_og.png?202111241106" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FelipeABastos.FelipeABastos)
 
 </p>
 <div size='20px'> Hi! My name is Felipe Bastos. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -17,12 +15,6 @@
 
 
 - 🔭 I’m currently working on a product called Personal Health, which aims to make medicine simpler, enabling the user to schedule appointments, exams, viewing medical reports, etc.
-
-- 🌱 I’m currently learning  
-
-- 👯 I’m looking to collaborate on  
-
-- 💬 Talk to me about  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/FelipeABastos?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
