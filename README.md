@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Felipe</h1>
+<h1 align="center">Hi, I'm Felipe</h1>
 <h3 align="center">I'm a iOS Developer from Brazil, actually working in MV Saúde.</h3>
 
 - 🔭 I’m currently working on **Personal Health**
 
-- 📫 How to reach me **Felipe.bastos3357@gmail.com**
+- 📫 You can reach me sending a email to **Felipe.bastos3357@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
