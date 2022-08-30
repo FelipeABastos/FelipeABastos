@@ -1,7 +1,7 @@
 
 <h1> Hi! My name is Felipe Bastos. :smile: </h1><p align='center'>
 
-- 🔭 I’m currently working on a product called Personal Health, which aims to make medicine simpler, enabling the user to schedule appointments, exams, viewing medical reports, etc.
+- 🔭 I’m currently studying Flutter to open my mind to the world out of the Apple languages.
   
 - 🚀 Always focusing on get better, Im specialized in Swift, SwiftUI and Objective C, envolving all of the iOS Developing languages.
   
