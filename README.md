@@ -1,7 +1,7 @@
 
 <h1> Hi! My name is Felipe Bastos. :smile: </h1><p align='center'>
 
-- 🔭 I’m currently studying Flutter to open my mind to the world out of the Apple languages.
+- 🔭 I’m currently studying new architectures for better iOS Development.
   
 - 🚀 Always focusing on get better, Im specialized in Swift, SwiftUI and Objective C, envolving all of the iOS Developing languages.
   
