@@ -3,14 +3,14 @@
   
 - 🚀 Expertises
   
-[x] Swift, Objective C and SwiftUI.
-[x] VIPER, MVVM, MVC, and an awesome knowledge of Clean Arch to create scalable and maintainable iOS Applications.
-[x] API REST, understanding concepts of authentication, error handling, data caching and a nice knowledge of mobile security.
-[x] Always following the Apple Guidelines.
-[x] Performance Optimization, ARC.
-[x] Cross Platform knowledge (Flutter).
-[x] Have strong skills to problem-solving, having ability to debug and resolve issues efficiently.
-[x] Good communication and leadership, bringing the team to the top.
+-- Swift, Objective C and SwiftUI.
+-- VIPER, MVVM, MVC, and an awesome knowledge of Clean Arch to create scalable and maintainable iOS Applications.
+-- API REST, understanding concepts of authentication, error handling, data caching and a nice knowledge of mobile security.
+-- Always following the Apple Guidelines.
+-- Performance Optimization, ARC.
+-- Cross Platform knowledge (Flutter).
+-- Have strong skills to problem-solving, having ability to debug and resolve issues efficiently.
+-- Good communication and leadership, bringing the team to the top.
   
 - 🇧🇷 Portuguese native, with 6 years of experience in the 🇺🇸 American English, actually I consider myself as a High Intermediate speaker.
 
