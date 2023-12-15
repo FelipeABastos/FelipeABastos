@@ -3,7 +3,7 @@
   
 <h2>🚀 Expertises</h2>
   
-- Swift, Objective C and SwiftUI.
+- Swift, Objective C, SwiftUI and Flutter.
 - VIPER, MVVM, MVC, and an awesome knowledge of Clean Arch to create scalable and maintainable iOS Applications.
 - API REST, understanding concepts of authentication, error handling, data caching and a nice knowledge of mobile security.
 - Always following the Apple Guidelines.
